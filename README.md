@@ -5,5 +5,15 @@
 
 This repository contains the implementation for the models included in the experimental comparison as presented in: **"HeteroRoadNet: A Heterogenous Road-based Graph Neural Network Approach for Property Price Prediction"**.
 
-Datasets:
 
+**Datasets**:
+
+Melbourne: https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
+
+Seattle: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
+London: https://www.kaggle.com/datasets/jakewright/house-price-data
+
+Pairs: https://www.kaggle.com/datasets/benoitfavier/immobilier-france
+
+New York: https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
